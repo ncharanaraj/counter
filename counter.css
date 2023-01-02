@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+}
+
+div {
+    margin-left: 1rem;
+}
